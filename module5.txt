@@ -1,0 +1,18 @@
+Imtihon  5-module berilagan bilim bo'yicha tuzilgan. Imtihon jami 1 ta variant 2ta savoldan iborat. 
+Baholash:
+1-savol uchun 20 ball.
+2-savol uchun 15 ball.
+Bonus: Javoblarni githubdagi public repositoryga joylasangiz  5 ball
+Savollar:
+1.(httpx, asyncio, io, context manager)
+(url=64.227.101.77) 
+decriptions nomli papkadagi hamma fayllardan fruit larning kerakli name, price va descriptionlarini o'qib oling.
+httpx async client bilan yuqoridagi urlga post request yuboring. Requestdan qaytgan status codelar "Response 001.txt 200" korinishida faylga yozib boring.
+fayllar bilan ishlash uchun FileManager nomli custom context manager yarating.
+
+2.(multithreading,decorators)
+Berilgan sonni teskarisini hisoblab beradigan funksiya yarating. Foydalanuvchi tomonidan probel bilan kiritilgan sonlarni alohida threadlarda hisoblab beradigan dastur tuzing.
+@printer nomli decorator yarating va bu funksiya qaytargan natijani konsolda chiqarib bersin.
+
+Eslatma : Javoblar uchun public repository ochishingiz lozim.
+
